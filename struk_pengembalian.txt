@@ -1,0 +1,102 @@
+========================================
+      STRUK PENGEMBALIAN BUKU
+       PERPUSTAKAAN DEALPIS
+========================================
+Nama Peminjam   : vina
+Judul Buku      : pulang
+----------------------------------------
+Lama Dipinjam   : 3 Hari
+Hari Terlambat  : 2 Hari
+Denda           : Rp 4000
+----------------------------------------
+Status          : DIKEMBALIKAN
+========================================
+
+========================================
+      STRUK PENGEMBALIAN BUKU
+       PERPUSTAKAAN DEALPIS
+========================================
+Nama Peminjam   : vina
+Judul Buku      : Sabtu Bersama Bapak
+----------------------------------------
+Lama Dipinjam   : 4 Hari
+Hari Terlambat  : 2 Hari
+Denda           : Rp 4000
+----------------------------------------
+Status          : DIKEMBALIKAN
+========================================
+
+========================================
+      STRUK PENGEMBALIAN BUKU
+       PERPUSTAKAAN DEALPIS
+========================================
+Nama Peminjam   : 1805305007930002
+Judul Buku      : Hafalan Shalat Delisa
+----------------------------------------
+Lama Dipinjam   : 5 Hari
+Hari Terlambat  : 3 Hari
+Denda           : Rp 6000
+----------------------------------------
+Status          : DIKEMBALIKAN
+========================================
+
+========================================
+      STRUK PENGEMBALIAN BUKU
+       PERPUSTAKAAN DEALPIS
+========================================
+Nama Peminjam   : 1805305007930002
+Judul Buku      : Seni Memberi
+----------------------------------------
+Lama Dipinjam   : 3 Hari
+Hari Terlambat  : 0 Hari
+Denda           : Rp 0
+----------------------------------------
+Status          : DIKEMBALIKAN
+========================================
+
+========================================
+      STRUK PENGEMBALIAN BUKU
+       PERPUSTAKAAN DEALPIS
+========================================
+Nama Peminjam   : 1805305007930002
+Judul Buku      : Berdamai Dengan Emosi
+----------------------------------------
+Lama Dipinjam   : 10 Hari
+Hari Terlambat  : 5 Hari
+Denda           : Rp 10000
+----------------------------------------
+Status          : DIKEMBALIKAN
+========================================
+
+========================================
+      STRUK PENGEMBALIAN BUKU
+       PERPUSTAKAAN DEALPIS
+========================================
+Nama Peminjam   : 1805305007930002
+Judul Buku      : Bandung Menjelang Pagi
+----------------------------------------
+Lama Dipinjam   : 8 Hari
+Hari Terlambat  : 3 Hari
+Denda           : Rp 6000
+Metode Bayar   : Transfer
+Bank Tujuan    : BRI
+----------------------------------------
+Status          : DIKEMBALIKAN
+========================================
+
+========================================
+      STRUK PENGEMBALIAN BUKU
+       PERPUSTAKAAN DEALPIS
+========================================
+Nama Peminjam   : 2171101212749021
+Judul Buku      : Novel Belenggu Hitam
+----------------------------------------
+Lama Dipinjam   : 11 Hari
+Hari Terlambat  : 6 Hari
+Denda           : Rp 12000
+Metode Bayar    : Transfer
+Bank Tujuan     : Mandiri
+----------------------------------------
+Status          : DIKEMBALIKAN
+========================================
+

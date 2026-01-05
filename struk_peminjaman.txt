@@ -1,0 +1,106 @@
+========================================
+        STRUK PEMINJAMAN BUKU
+        PERPUSTAKAAN DEALPIS
+========================================
+Tanggal Pinjam : 3-1-2026
+Waktu          : 7:26
+----------------------------------------
+Nama Anggota   : vina
+ID Buku        : 1084
+Judul Buku     : Pulang
+Lama Pinjam    : 1 Hari
+----------------------------------------
+Status         : DIPINJAM
+========================================
+
+========================================
+        STRUK PEMINJAMAN BUKU
+        PERPUSTAKAAN DEALPIS
+========================================
+Tanggal Pinjam : 3-1-2026
+Waktu          : 9:10
+----------------------------------------
+Nama Anggota   : vina
+ID Buku        : 1155
+Judul Buku     : Sabtu Bersama Bapak
+Lama Pinjam    : 2 Hari
+----------------------------------------
+Status         : DIPINJAM
+========================================
+
+========================================
+        STRUK PEMINJAMAN BUKU
+        PERPUSTAKAAN DEALPIS
+========================================
+Tanggal Pinjam : 3-1-2026
+Waktu          : 21:9
+----------------------------------------
+Nama Anggota   : 1805305007930002
+ID Buku        : 1156
+Judul Buku     : Hafalan Shalat Delisa
+Lama Pinjam    : 2 Hari
+----------------------------------------
+Status         : DIPINJAM
+========================================
+
+========================================
+        STRUK PEMINJAMAN BUKU
+        PERPUSTAKAAN DEALPIS
+========================================
+Tanggal Pinjam : 4-1-2026
+Waktu          : 15:46
+----------------------------------------
+Nama Anggota   : 1805305007930002
+ID Buku        : 1126
+Judul Buku     : Seni Memberi
+Lama Pinjam    : 3 Hari
+----------------------------------------
+Status         : DIPINJAM
+========================================
+
+========================================
+        STRUK PEMINJAMAN BUKU
+        PERPUSTAKAAN DEALPIS
+========================================
+Tanggal Pinjam : 4-1-2026
+Waktu          : 17:50
+----------------------------------------
+Nama Anggota   : 1805305007930002
+ID Buku        : 1127
+Judul Buku     : Berdamai Dengan Emosi
+Lama Pinjam    : 5 Hari
+----------------------------------------
+Status         : DIPINJAM
+========================================
+
+========================================
+        STRUK PEMINJAMAN BUKU
+        PERPUSTAKAAN DEALPIS
+========================================
+Tanggal Pinjam : 4-1-2026
+Waktu          : 18:0
+----------------------------------------
+Nama Anggota   : 1805305007930002
+ID Buku        : 1086
+Judul Buku     : Bandung Menjelang Pagi
+Lama Pinjam    : 5 Hari
+----------------------------------------
+Status         : DIPINJAM
+========================================
+
+========================================
+        STRUK PEMINJAMAN BUKU
+        PERPUSTAKAAN DEALPIS
+========================================
+Tanggal Pinjam : 4-1-2026
+Waktu          : 18:38
+----------------------------------------
+Nama Anggota   : 2171101212749021
+Umur (Prioritas): 52 Tahun
+ID Buku        : 1187
+Judul Buku     : Novel Belenggu Hitam
+Lama Pinjam    : 5 Hari
+----------------------------------------
+Status         : DIPINJAM
+========================================
+

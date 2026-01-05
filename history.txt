@@ -1,0 +1,8 @@
+
+vina,Pulang,1
+vina,Sabtu Bersama Bapak,1155,2
+1805305007930002,Hafalan Shalat Delisa,1156,2
+1805305007930002,Seni Memberi,1126,3
+1805305007930002,Berdamai Dengan Emosi,1127,5
+1805305007930002,Bandung Menjelang Pagi,1086,5
+2171101212749021,Novel Belenggu Hitam,1187,5

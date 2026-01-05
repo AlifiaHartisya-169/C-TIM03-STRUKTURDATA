@@ -1,0 +1,356 @@
+NIK               : 3512084102000002
+Nama              : Fatimatus
+Tempat Lahir      : Situbondo
+Tanggal Lahir     : 05-02-2000
+Jenis Kelamin     : Perempuan
+Golongan Darah    : AB
+Alamat            : Krajan
+RT                : 1
+RW                : 1
+Kelurahan/Desa    : Panjilor
+Kecamatan         : Panji
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Mahasiswa
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 1471091105880041
+Nama              : Harry Ramadhan
+Tempat Lahir      : Pekanbaru
+Tanggal Lahir     : 11-05-1988
+Jenis Kelamin     : Laki-laki
+Golongan Darah    : O
+Alamat            : JL. Kelapa NO.2
+RT                : 2
+RW                : 1
+Kelurahan/Desa    : Wonorejo
+Kecamatan         : Marpoyan Damai
+Agama             : Islam
+Status Perkawinan : Belum
+Pekerjaan         : Mahasiswa
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 2104010701630001
+Nama              : Alias Wello
+Tempat Lahir      : Dabo Singkep
+Tanggal Lahir     : 07-01-1963
+Jenis Kelamin     : Laki-laki
+Golongan Darah    : B
+Alamat            : JL. Imam Bonjol
+RT                : 2
+RW                : 1
+Kelurahan/Desa    : Tanjung Uban Kota
+Kecamatan         : Bintan Utara
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Wiraswasta
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 2171101212749021
+Nama              : Handoko
+Tempat Lahir      : Banjarmasin
+Tanggal Lahir     : 12-12-1974
+Jenis Kelamin     : Laki-laki
+Golongan Darah    : O
+Alamat            : Golden Land Blok. F
+RT                : 2
+RW                : 13
+Kelurahan/Desa    : Taman Baloi
+Kecamatan         : Batam Kota
+Agama             : Kristen
+Status Perkawinan : Kawin
+Pekerjaan         : Wiraswasta
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 3171234567890123
+Nama              : Mira Setiawan
+Tempat Lahir      : Jakarta
+Tanggal Lahir     : 13-02-1986
+Jenis Kelamin     : Perempuan
+Golongan Darah    : B
+Alamat            : JL. pasti cepat
+RT                : 7
+RW                : 8
+Kelurahan/Desa    : Pegadungan
+Kecamatan         : Kalideres
+Agama             : Islam
+Status Perkawinan : Belum
+Pekerjaan         : Pegawai Swasta
+Kewarganegaraan   : WNA
+Berlaku Hingga    : Selamanya
+----------------------------------------NIK               : 1219014706980003
+Nama              : Masitoh Darwina
+Tempat Lahir      : Pangkalan Dodek
+Tanggal Lahir     : 07-06-1998
+Jenis Kelamin     : Perempuan
+Golongan Darah    : O
+Alamat            : JL. Udin Sutan Syarif
+RT                : 1
+RW                : 3
+Kelurahan/Desa    : Paguwaran
+Kecamatan         : Medan Deras
+Agama             : Islam
+Status Perkawinan : Belum
+Pekerjaan         : Mahasiswa
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 1208184604850001
+Nama              : Mindo Sitinjak
+Tempat Lahir      : Sipangan Bolon
+Tanggal Lahir     : 06-04-1985
+Jenis Kelamin     : Perempuan
+Golongan Darah    : A
+Alamat            : Kav. KBI 3 NO. B1 Rancakasiat
+RT                : 3
+RW                : 4
+Kelurahan/Desa    : Rancamulya
+Kecamatan         : Pameungpeuk
+Agama             : Katolik
+Status Perkawinan : Kawin
+Pekerjaan         : Karyawan Swasta
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 5301211123936241
+Nama              : Nasir
+Tempat Lahir      : Rote
+Tanggal Lahir     : 11-12-1986
+Jenis Kelamin     : Laki-laki
+Golongan Darah    : B
+Alamat            : Tarus
+RT                : 6
+RW                : 3
+Kelurahan/Desa    : Tarus
+Kecamatan         : Kapung Tengah
+Agama             : Kristen
+Status Perkawinan : Belum
+Pekerjaan         : Wiraswasta
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 3211090407930003
+Nama              : Heri Irawan
+Tempat Lahir      : Sumedang
+Tanggal Lahir     : 04-07-1993
+Jenis Kelamin     : Laki-laki
+Golongan Darah    : O
+Alamat            : Dusun pamekarsari
+RT                : 2
+RW                : 3
+Kelurahan/Desa    : Pamekarsari
+Kecamatan         : Surian
+Agama             : Islam
+Status Perkawinan : Belum
+Pekerjaan         : Mahasiswa
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 1214110910930002
+Nama              : Herman
+Tempat Lahir      : Dao Dao
+Tanggal Lahir     : 09-10-1999
+Jenis Kelamin     : Laki-laki
+Golongan Darah    : O
+Alamat            : Pantai Raja
+RT                : 4
+RW                : 1
+Kelurahan/Desa    : Perhentian Raja
+Kecamatan         : Perhentian Raja
+Agama             : Katolik
+Status Perkawinan : Kawin
+Pekerjaan         : Pekebun
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 3201115204030001
+Nama              : Halisa Surya Winarni
+Tempat Lahir      : Bogor
+Tanggal Lahir     : 12-04-2003
+Jenis Kelamin     : Perempuan
+Golongan Darah    : A
+Alamat            : KP. Cibadung
+RT                : 2
+RW                : 3
+Kelurahan/Desa    : Cibadung
+Kecamatan         : Gunung Sindur 
+Agama             : Islam
+Status Perkawinan : Belum
+Pekerjaan         : Mahasiswa
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 3273200101900005
+Nama              : Ahmad Fauzi
+Tempat Lahir      : Bandung
+Tanggal Lahir     : 01-0-1--1990
+Jenis Kelamin     : Laki-laki
+Golongan Darah    : A
+Alamat            : Jl. Asia Afrika No.10
+RT                : 4
+RW                : 5
+Kelurahan/Desa    : Braga
+Kecamatan         : Sumur Bandung
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Karyawan Swasta
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 3174054405920002
+Nama              : Siti Aminah
+Tempat Lahir      : Jakarta
+Tanggal Lahir     : 04-05-1992
+Jenis Kelamin     : Perempuan
+Golongan Darah    : B
+Alamat            : Jl. Melati No. 15
+RT                : 2
+RW                : 1
+Kelurahan/Desa    : Kebayoran Lama Selatan
+Kecamatan         : Kebayoran Lama
+Agama             : Islam
+Status Perkawinan : Belum
+Pekerjaan         : Guru
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 5171010107880001
+Nama              : I Gede Putu Artha
+Tempat Lahir      : Denpasar
+Tanggal Lahir     : 01-07-1988
+Jenis Kelamin     : Laki-laki
+Golongan Darah    : O
+Alamat            : Jl. Raya Puputan No. 100
+RT                : 1
+RW                : 4
+Kelurahan/Desa    : Renon
+Kecamatan         : Denpasar Selatan
+Agama             : Hindu
+Status Perkawinan : Kawin
+Pekerjaan         : Wiraswasta
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 6471014110950003
+Nama              : Budi Santoso
+Tempat Lahir      : Balikpapan
+Tanggal Lahir     : 01-10-1995
+Jenis Kelamin     : Laki-laki
+Golongan Darah    : AB
+Alamat            : Perumahan Balikpapan Baru
+RT                : 10
+RW                : 2
+Kelurahan/Desa    : Damai 
+Kecamatan         : Balikpapan Kota
+Agama             : Kristen
+Status Perkawinan : Belum
+Pekerjaan         : Arsitek
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 1371025208850004
+Nama              : Ratna Sari
+Tempat Lahir      : Padang
+Tanggal Lahir     : 12-08-1985
+Jenis Kelamin     : Perempuan
+Golongan Darah    : O
+Alamat            : Jl. Khatin Sulaiman No. 5
+RT                : 3
+RW                : 2
+Kelurahan/Desa    : Lolong Belanti
+Kecamatan         : Padang Utara
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Ibu Rumah Tangga
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 7371050202990001
+Nama              : Muhammad Yusuf
+Tempat Lahir      : Makassar
+Tanggal Lahir     : 02-02-1999
+Jenis Kelamin     : Laki-laki
+Golongan Darah    : B
+Alamat            : Jl. Sultan Alauddin No. 45
+RT                : 5
+RW                : 3
+Kelurahan/Desa    : Pabaengbaeng
+Kecamatan         : Tamalate
+Agama             : Islam
+Status Perkawinan : Belum
+Pekerjaan         : Mahasiswa
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 1271031503800006
+Nama              : Tumpal Manurung
+Tempat Lahir      : Medan
+Tanggal Lahir     : 15-03-1980
+Jenis Kelamin     : Laki-laki
+Golongan Darah    : A
+Alamat            : Jl. Sisingamangaraja No. 120
+RT                : 8
+RW                : 2
+Kelurahan/Desa    : Teladan Barat
+Kecamatan         : Medan Kota
+Agama             : Kristen
+Status Perkawinan : Kawin
+Pekerjaan         : Pengacara
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 3578014404940003
+Nama              : Linda Wijaya
+Tempat Lahir      : Surabaya
+Tanggal Lahir     : 04-04-1994
+Jenis Kelamin     : Perempuan
+Golongan Darah    : AB
+Alamat            : Jl. Tunjungan No.88
+RT                : 1
+RW                : 6
+Kelurahan/Desa    : Genteng 
+Kecamatan         : Genteng
+Agama             : Budha
+Status Perkawinan : Belum
+Pekerjaan         : Desainer Grafis
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 3374021212820002
+Nama              : Joko Susilo
+Tempat Lahir      : Semarang
+Tanggal Lahir     : 12-12-1982
+Jenis Kelamin     : Laki-laki
+Golongan Darah    : O
+Alamat            : Jl. Pandanaran No. 20
+RT                : 4
+RW                : 1
+Kelurahan/Desa    : Pekunden
+Kecamatan         : Semarang Tengah
+Agama             : Islam
+Status Perkawinan : Kawin
+Pekerjaan         : Pegawai Negeri Sipil
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
+NIK               : 3171036109910005
+Nama              : Maria Claudia
+Tempat Lahir      : Jakarta
+Tanggal Lahir     : 21-09-1991
+Jenis Kelamin     : Perempuan
+Golongan Darah    : B
+Alamat            : Jl. Gajah Mada No. 200
+RT                : 3
+RW                : 5
+Kelurahan/Desa    : Glodok
+Kecamatan         : Taman Sari
+Agama             : Katolik
+Status Perkawinan : Belum
+Pekerjaan         : Akuntan
+Kewarganegaraan   : WNI
+Berlaku Hingga    : Selamanya
+----------------------------------------
